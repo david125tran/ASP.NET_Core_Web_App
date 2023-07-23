@@ -15,10 +15,10 @@ Give this page a minute to load the GIFs.
 ![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/Images/4.png)  
   
 ### ---Create Functionality---
-![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/create.mp4)  
+![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/create.gif)  
 
 ### ---Update Functionality---
-![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/update.mp4)  
+![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/update.gif)  
 
 ### ---Delete Functionality---
-![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/delete.mp4)  
+![](https://github.com/david125tran/ASP.NET_Core_Web_App/blob/main/GIFs/delete.gif)  
