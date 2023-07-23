@@ -1,5 +1,5 @@
 # ASP.NET_Core_Web_App
-A simple CRUD web application connected to a SQL server database that I built using ASP.NET Core in Visual Studio 2022.  
+A simple CRUD web application connected to a SQL server database that I built using ASP.NET Core in Microsoft's Visual Studio 2022 using the ASP.NET Core Web App project template.  
 Give this page a minute to load the GIFs.  
   
 ### Welcome Page
